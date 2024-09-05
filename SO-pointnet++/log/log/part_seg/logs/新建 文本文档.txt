@@ -1,0 +1,20 @@
+2024-03-08 05:04:34,541 - Model - INFO - Epoch 110 (110/251):
+2024-03-08 05:04:34,541 - Model - INFO - Learning rate:0.000031
+2024-03-08 05:22:10,672 - Model - INFO - Train accuracy is: 0.96123
+2024-03-08 05:24:18,540 - Model - INFO - eval mIoU of Airplane       0.826857
+2024-03-08 05:24:18,540 - Model - INFO - eval mIoU of Bag            0.810952
+2024-03-08 05:24:18,540 - Model - INFO - eval mIoU of Cap            0.847386
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Car            0.785466
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Chair          0.907796
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Earphone       0.706405
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Guitar         0.912018
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Knife          0.876120
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Lamp           0.836100
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Laptop         0.955222
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Motorbike      0.692415
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Mug            0.955305
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Pistol         0.816135
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Rocket         0.581150
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Skateboard     0.755859
+2024-03-08 05:24:18,541 - Model - INFO - eval mIoU of Table          0.837583
+2024-03-08 05:24:18,542 - Model - INFO - Epoch 110 test Accuracy: 0.942404  Class avg mIOU: 0.818923   Inctance avg mIOU: 0.855054
